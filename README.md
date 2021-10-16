@@ -1,9 +1,9 @@
-# Harvington Railway Website
+# Mazeee's Website
 
 <img src="https://cdn.discordapp.com/attachments/745690647352311860/853251719541686302/new_19.png" align="right"
+     alt="Picture of a Gatwick Express train in Train Sim World 2. My profile picture." width="1080" height="1080">
 
 This is the source code of the HRN website, hosted on Github Pages. 
 Feel free to fork the repo and use it however you want, just make sure to abide by the license.
 
 🔗 [**Website**](https://harvington-rail.co.uk) | [**Discord Server**](https://harvington-rail.co.uk/discord)
-
