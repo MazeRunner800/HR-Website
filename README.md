@@ -1,7 +1,7 @@
 # Harvington Railway
 
-<img src="https://cdn.discordapp.com/attachments/745690647352311860/853251719541686302/new_19.png" align="right"
-     alt="Harvington Railway Logo" width="1080" height="1080">
+<img src="https://github.com/MazeRunner800/HRNWebsite/blob/main/new_19.png?raw=true" align="right"
+     alt="Harvington Railway Logo" width="427" height="427">
 
 This is the source code of the HRN website, hosted on Github Pages. 
 Feel free to fork the repo and use it however you want, just make sure to abide by the license.
